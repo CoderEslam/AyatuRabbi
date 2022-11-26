@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924963285290",
+    "project_id": "ayaturabbi-b5d44",
+    "storage_bucket": "ayaturabbi-b5d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924963285290:android:353c64f77b5ce37e009653",
+        "android_client_info": {
+          "package_name": "com.devlomi.ayaturabbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924963285290-as2047rb4bsue0t6k53cieq9ddhsuj9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devlomi.ayaturabbi",
+            "certificate_hash": "f367566018492b50a0de360a9e903ef2ccef19e9"
+          }
+        },
+        {
+          "client_id": "924963285290-vq11qdcjjhpjbjskquf3o603ikvp47l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEzta6fcSBHMup5Cn2YRwQdudfbiKOwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924963285290-vq11qdcjjhpjbjskquf3o603ikvp47l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

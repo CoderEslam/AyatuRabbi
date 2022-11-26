@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/circle_bg.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/ic_android.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/ic_bookmark_filled.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/ic_bookmarks.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/ic_note.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/drawable/ic_quran_logo.xml" value="0.173" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/bookmarks_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/color_picker_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/download_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/item_bookmark.xml" value="0.33" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/item_quran_page.xml" value="0.5" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/item_search.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/item_surah.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/main_activity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/options_panel_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/quran_page_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/search_card_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/search_card_search_view.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/search_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/settings_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/share_type_bottomsheet.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/suras_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/AyatuRabbi_Quran/app/src/main/res/layout/zoom_options.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
